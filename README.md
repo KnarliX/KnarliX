@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm KnarliX! 
+# 👋 Hi there, I'm [KnarliX](https://knarlix.github.io/Universe/)! 
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
