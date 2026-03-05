@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 Currently building **Dreamer’s Land** and related projects  <br>🌱 Learning and working with **Node.js, Next.js, React, and React Native**  <br>⚡ Fun fact: I’ve built a calendar Android app, multiple Discord bots, and several Next.js websites I rely heavily on AI-assisted development, so you can call me a ***vibe coder***
+🔭 Currently building @ArnytChat project (backend api + android & ios application and website <br>🌱 Learning and working with **Node.js, Next.js, React, and React Native**  <br>⚡ Fun fact: I’ve built a calendar Android app, multiple Discord bots, and several Next.js websites I rely heavily on AI-assisted development, so you can call me a ***vibe coder***
 
 
 ## 🌐 Socials:
